@@ -1,0 +1,32 @@
+/*  Colors  */
+
+$color-cream: #F1F1DE;
+$color-bronze: #AF6D04;
+$color-dark-blue: #202A44;
+$color-pink: #FC9BB3;
+$color-midnight: #040406;
+$color-light-gray: #A0A0A0;
+
+/*  Typography  */
+
+$default-font-size: 2rem;
+$medium-font-size: 2.4rem;
+$display-font-size: 2.6rem;
+$big-font-size: 3.2rem;
+$giant-font-size: 4.8rem;
+$button-font-size: 28px;
+$form-input-font-size: 2.3rem;
+$fine-print-font-size: 1.4rem;
+$tiny-font-size: 1rem;
+
+$font-primary: linotype-sabon, 'Garamond', 'Bookman Old Style', 'Century Schoolbook', serif;
+$font-heading: alternate-gothic-compressed, 'Impact', sans-serif;
+$font-subheading: futura-pt, 'Tahoma', 'Helvetica', 'Arial', sans-serif;
+
+/*  Screen Breakpoints  */
+
+$screen-phone-small: 28.75em; // 460px
+$screen-phone-large: 37.5em; // 600px
+$screen-tab-port: 56.25em; // 900px
+$screen-tab-land: 75em; // 1200px
+$screen-desktop: 112.5em; // 1800px

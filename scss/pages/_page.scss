@@ -1,0 +1,33 @@
+.page__content {
+  padding: 0 1rem;
+}
+
+.page__h1 {
+  margin-top: 5rem;
+}
+
+.page__editor-content {
+  margin: 5rem auto 9.6rem;
+  max-width: 640px;
+
+  & h2 {
+    color: $color-bronze;
+    font-family: $font-subheading;
+    font-size: $big-font-size;
+    font-weight: 400;
+    margin: 3.5rem 0 2rem;
+  }
+
+  & h3 {
+    color: $color-dark-blue;
+    font-size: $display-font-size;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+
+  & h4 {
+    color: $color-bronze;
+    font-family: $font-subheading;
+    margin-bottom: 2rem;
+  }
+}

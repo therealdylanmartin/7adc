@@ -1,0 +1,57 @@
+.field-group-primary {
+  position: relative;
+
+  &:not(:first-child) {
+    margin-top: 1rem;
+  }
+}
+
+.field-group-primary__input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: $color-cream;
+  border: 2px solid $color-dark-blue;
+  font-family: $font-subheading;
+  font-size: $default-font-size;
+  height: 50px;
+  outline: none;
+  padding: 0 1.5rem;
+  width: 100%;
+
+  @include respond(phone-large) {
+    font-size: $form-input-font-size;
+    height: 60px;
+  }
+
+  &::placeholder {
+    color: transparent;
+  }
+
+  &:focus-within {
+    border-color: $color-pink;
+  }
+
+  &:not(:placeholder-shown) ~ .field-group-primary__input-label {
+    font-size: 1rem;
+    left: 0.4rem;
+    top: 2px;
+  }
+}
+
+.field-group-primary__input-label {
+  color: $color-light-gray;
+  cursor: text;
+  font-family: $font-subheading;
+  font-size: $default-font-size;
+  left: 1.7rem;
+  position: absolute;
+  top: 13px;
+  transition: all .15s ease-in;
+  width: calc(100% - 1.7rem);
+  z-index: 1;
+
+  @include respond(phone-large) {
+    font-size: $form-input-font-size;
+  }
+}

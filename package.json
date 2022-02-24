@@ -1,0 +1,20 @@
+{
+  "name": "website-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:scss": "node-sass --watch scss -o public/styles --output-style compressed",
+    "build:scss": "node-sass scss -o public/styles --output-style compressed",
+    "concat:css": "concat -o 7adc-theme/style.css public/styles/wordpress-header.css public/styles/main.css",
+    "minify:js": "uglifyjs --compress --mangle -o 7adc-theme/assets/scripts/main.min.js -- public/scripts/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "node-sass": "^7.0.1",
+    "uglify-js": "^3.15.1"
+  }
+}

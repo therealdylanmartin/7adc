@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  padding: 1.4rem 0 0;
+  position: relative;
+  z-index: 2;
+}
+
+.header__decorative-line {
+  background-color: $color-bronze;
+  flex: 1;
+  height: 1px;
+  margin: 2.2rem 1.2rem;
+}
+
+.header__logo-link,
+.header__logo {
+  display: block;
+  height: 60px;
+  width: 220px;
+
+  @include respond(tab-port) {
+    height: 70px;
+    width: 257px;
+  }
+}
