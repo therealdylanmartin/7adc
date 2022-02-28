@@ -31,7 +31,7 @@
             <label class="field-group-primary__input-label" for="mce-EMAIL">Email Address</label>
           </div>
           <p class="email-capture--p">
-            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company. See <a href="/sweepstakes-rules" target="_blank">full sweepstakes rules</a>.
+            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company. See <a class="email-capture--link" href="/sweepstakes-rules" target="_blank">full sweepstakes rules</a>.
           </p>
           
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->

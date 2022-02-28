@@ -40,6 +40,20 @@
   text-align: center;
 }
 
+.email-capture--link {
+  &,
+  &:link,
+  &:visited {
+    color: $color-dark-blue !important;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    color: $color-dark-blue !important;
+  }
+
+}
+
 .email-capture--button {
   margin: 0 auto;
 }
