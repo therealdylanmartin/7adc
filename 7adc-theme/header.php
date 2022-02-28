@@ -65,7 +65,7 @@
   <section class="email-popup__background" id="mce-email-modal">
     <div class="email-popup">
       <button class="subheading-primary email-popup__close-button" id="mce-email-modal-CLOSE" aria-label="Close Email Signup Form">&times;</button>
-      <h2 class="subheading-primary email-capture--h3 email-popup--h2">Be the first to know about special offers and our grand opening.</h2>
+      <h2 class="subheading-primary email-capture--h3 email-popup--h2">Sign up for 7ADC email updates for your chance to win a one-night stay and dinner for two!</h2>
       <div class="email-capture--form-container">
         <!-- Begin Mailchimp Signup Form -->
         <form action="https://sevenacredairyco.us14.list-manage.com/subscribe/post?u=4107b8ea5c4588a0f823e7aa2&amp;id=3620838258" method="post" class="email-capture--form" target="_blank" novalidate>
@@ -86,7 +86,7 @@
             <label class="field-group-primary__input-label" for="mce-email-modal-EMAIL">Email Address</label>
           </div>
           <p class="email-capture--p email-popup--p">
-            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company.
+            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company. See <a href="/sweepstakes-rules" target="_blank">full sweepstakes rules</a>.
           </p>
           
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
