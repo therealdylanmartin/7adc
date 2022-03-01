@@ -55,3 +55,13 @@
 .title-container__button {
   margin: 2.5rem auto 1rem;
 }
+
+.title-container__br {
+  @media only screen and (max-width: 690px) {
+    display: none;
+  }
+  
+  @media only screen and (max-width: 3700px) {
+    display: default;
+  }
+}

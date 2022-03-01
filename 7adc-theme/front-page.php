@@ -42,7 +42,8 @@ get_header(); ?>
         <h2 class="subheading-primary title-container__h2">Our love letter to Wisconsin…</h2>
         <hr class="title-container__hr">
         <p class="title-container__p">
-          Nestled on the banks of the Sugar River in Paoli, Wisconsin, Seven Acre Dairy Company is a painstakingly restored cheese factory reimagined as a destination for dairy lovers, modern travelers, and discerning diners.
+          Nestled on the banks of the Sugar River in Paoli, Wisconsin, 
+          <br class="title-container__br">Seven Acre Dairy Company is a painstakingly restored cheese factory reimagined as a destination for dairy lovers, modern travelers, and discerning diners.
         </p>
         <p class="title-container__p">
           Seven Acre features riverside dining, a dairy cafe, an 8-room boutique hotel, walking trails, and a few surprises along the way!
