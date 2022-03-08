@@ -64,6 +64,5 @@ const emailSubscribeButtons = document.querySelectorAll('.subscribe-button');
 emailSubscribeButtons.forEach(button => {
   button.addEventListener('click', () => {
     document.cookie = 'subscribed=true';
-    emailPopUp.classList.remove('email-popup__visible');
   });
 })
