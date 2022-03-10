@@ -68,7 +68,7 @@ get_header(); ?>
       <p class="coming-soon--p">
         Just minutes from Madison or a short trip from Milwaukee, Chicago, or Minneapolis. Visit Seven Acre to enjoy artisan cheese, butter, and ice cream, an evening in one of our uniquely-appointed guest rooms, an inspired meal at our kitchen or dairy cafe, and a stroll on the property's restored oak savanna. Join us this fall!
       </p>
-      <a class="button button-primary coming-soon--button" href="/our-story">Our Story</a>
+      <a class="button button-primary coming-soon--button" href="/our-story/">Our Story</a>
     </section>
 
   </main>
