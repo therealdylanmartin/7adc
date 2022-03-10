@@ -62,7 +62,7 @@
           </div>
         </div>
 
-        <img class="company-details--logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_quality-submark_cream.svg" alt="Seven Acre Dairy Company | Paoli, Wisconsin | Quality Gauranteed">
+        <img class="company-details--logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_quality-submark_cream.svg" alt="7 Acre Dairy Company | Paoli, Wisconsin | Quality Gauranteed">
 
         <div class="company-details--contact-us">
           <h2 class="subheading-primary company-details--h2">Have Questions?</h2>

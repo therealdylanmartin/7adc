@@ -52,7 +52,7 @@ get_header(); ?>
     </section>
 
     <section class="home__coming-soon">
-      <img class="coming-soon--logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_extended_black.svg" alt="Seven Acre | Kitchen, Inn, and Dairy Cafe">
+      <img class="coming-soon--logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_extended_black.svg" alt="7 Acre | Kitchen, Inn, and Dairy Cafe">
       <div class="coming-soon--social-container">
         <a class="coming-soon--social-link" href="https://www.facebook.com/sevenacredairyco/" target="_blank" aria-label="Follow us on Facebook">
           <img class="coming-soon--social-icon" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/social-icon_facebook_circle_black.svg" alt="Follow us on Facebook">

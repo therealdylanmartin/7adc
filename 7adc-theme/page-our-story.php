@@ -294,7 +294,7 @@ get_header(); ?>
       
     </section>
 
-    <img class="our-story__logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_extended_black.svg" alt="Seven Acre | Kitchen, Inn, and Dairy Cafe">
+    <img class="our-story__logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_extended_black.svg" alt="7 Acre | Kitchen, Inn, and Dairy Cafe">
 
   </main>
 

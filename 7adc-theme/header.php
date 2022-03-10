@@ -104,7 +104,7 @@
     <div class="header__decorative-line"></div>
 
     <?php if (!is_front_page()): ?><a class="header__logo-link" href="/" aria-label="View homepage"><?php endif; ?>
-      <img class="header__logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_primary_bronze.svg" alt="Seven Acre Dairy Company">
+      <img class="header__logo" src="<?php echo get_template_directory_uri();?>/assets/images/svgs/seven-acre-dairy_logo_primary_bronze.svg" alt="7 Acre Dairy Company">
     <?php if (!is_front_page()): ?></a><?php endif; ?>
 
     <div class="header__decorative-line"></div>
