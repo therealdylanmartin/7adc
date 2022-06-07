@@ -10,7 +10,6 @@
 
     <section class="footer__email-capture" id="email-sign-up">
       <h2 class="heading-primary email-capture--h2">Sign up now for updates and special offers.</h2>
-      <h3 class="subheading-primary email-capture--h3">Sign up for Seven Acre email updates for your chance to win a one-night stay and dinner for two!</h3>
       <div class="email-capture--form-container">
         <!-- Begin Mailchimp Signup Form -->
         <form action="https://sevenacredairyco.us14.list-manage.com/subscribe/post?u=4107b8ea5c4588a0f823e7aa2&amp;id=3620838258" method="post" class="email-capture--form" novalidate>
@@ -31,7 +30,7 @@
             <label class="field-group-primary__input-label" for="mce-EMAIL">Email Address</label>
           </div>
           <p class="email-capture--p">
-            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company. See <a class="email-capture--link" href="/sweepstakes-rules" target="_blank">full sweepstakes rules</a>.
+            By submitting this form, you are consenting to receive communications from Seven Acre Dairy Company.
           </p>
           
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
